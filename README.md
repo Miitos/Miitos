@@ -2,11 +2,31 @@
 
 <p align="center">
   <b>Développeur</b>, je code au boulot et je continue le soir sur mes projets perso :<br>
-  du firmware ESP32 au widget Windows, en passant par un assistant pour League of Legends et un jeu Unreal.
+  du firmware ESP32 au widget Windows, en passant par un assistant pour League of Legends, un carnet de kyudo et un jeu Unreal.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,unreal&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,react,js,unreal&theme=dark" alt="Stack" />
+</p>
+
+---
+
+## 🎯 [Tekichū](https://github.com/Miitos/tekichu)
+
+Mon carnet d'entraînement de kyudo, dans la poche : je note mes flèches et leurs impacts sur la mato, je suis les corrections données par mes sensei, et je regarde ma progression. Une appli web installable, hors ligne, sans compte… avec un sceau **皆中** quand tout le tachi est dans la cible 🏹
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miitos/tekichu/main/public/icon-512.png" width="19%" alt="Icône de Tekichū" />
+  <img src="https://raw.githubusercontent.com/Miitos/tekichu/main/docs/corrections.png" width="19%" alt="Corrections" />
+  <img src="https://raw.githubusercontent.com/Miitos/tekichu/main/docs/tir.png" width="19%" alt="Tir et sceau kaichū" />
+  <img src="https://raw.githubusercontent.com/Miitos/tekichu/main/docs/progres.png" width="19%" alt="Progrès" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+  <a href="https://tekichu.pages.dev"><img src="https://img.shields.io/badge/ouvrir_l'app-2ea44f?style=flat-square" /></a>
 </p>
 
 ---
